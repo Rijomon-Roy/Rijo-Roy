@@ -12,9 +12,9 @@
 
 - 🌱 I’m currently learning **React, Node.js, MongoDB**
 
-- 📫 How to reach me: **rijomonroy@example.com**
+- 📫 How to reach me: **rijoroykallattu@gmail.com**
 
-- 📄 Know about my experiences: [Portfolio](https://your-portfolio-link.com)
+- 📄 Know about my experiences: [Portfolio]([https://your-portfolio-link.com](https://portfolio-rijo.netlify.app/))
 
 ---
 
