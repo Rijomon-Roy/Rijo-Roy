@@ -27,10 +27,10 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
-
- <img src="https://streak-stats.demolab.com/?user=rijomonroy&theme=dark" alt="GitHub Streak" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=rijomonroy&show_icons=true&theme=dark" alt="GitHub Stats" />
 </p>
+<!-- Streak stats temporarily removed due to service issues -->
+
 
 ---
 
